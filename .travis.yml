@@ -1,1 +1,4 @@
 language: java
+
+notifications:
+  webhooks: http://37a69dee.ngrok.io/woot
