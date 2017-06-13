@@ -1,4 +1,4 @@
 language: java
 
 notifications:
-  webhooks: http://37a69dee.ngrok.io/woot
+  webhooks: http://37a69dee.ngrok.io/hook/travisci/Yy1lOTJjNTQwYi04NTAwLTQ3MzMtYWM1NC0wYjg1MDBiNzMzYjI6aS00NjliNmQxMy1lZWMxLTQ0MjktOWI2ZC0xM2VlYzE0NDI5NGE=
